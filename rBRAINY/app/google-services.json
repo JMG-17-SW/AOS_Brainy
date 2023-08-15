@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "867647630347",
+    "firebase_url": "https://brainy-f5cc4-default-rtdb.firebaseio.com",
+    "project_id": "brainy-f5cc4",
+    "storage_bucket": "brainy-f5cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867647630347:android:949e9b456dee402f332b0e",
+        "android_client_info": {
+          "package_name": "com.example.brainy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867647630347-us14nm1jamiqcq97132j9bh5ca4qr1fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTS7nIbfZPVgg_4SUXGE_unSOlrHC3uYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867647630347-us14nm1jamiqcq97132j9bh5ca4qr1fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867647630347-qbdbbs99ktv842j2g4shvv1okfim68pl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.Brainy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867647630347:android:aca2f63422c70287332b0e",
+        "android_client_info": {
+          "package_name": "com.example.test28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867647630347-us14nm1jamiqcq97132j9bh5ca4qr1fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTS7nIbfZPVgg_4SUXGE_unSOlrHC3uYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867647630347-us14nm1jamiqcq97132j9bh5ca4qr1fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867647630347-qbdbbs99ktv842j2g4shvv1okfim68pl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.Brainy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
